@@ -15,9 +15,7 @@
     "@types/supertest": "^6.0.2",
     "express": "^4.19.2",
     "supertest": "^7.0.0",
-    "vitest": "^1.6.0"
-  },
-  "devDependencies": {
+    "vitest": "^1.6.0",
     "prisma": "^5.15.1"
   }
 }
